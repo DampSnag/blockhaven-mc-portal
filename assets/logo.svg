@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Server logo">
+  <!-- Placeholder logo: a simple flat block. Replace with your own. -->
+  <path d="M16 3 28 9.5 16 16 4 9.5Z" fill="#9FE079"/>
+  <path d="M4 9.5 16 16v13L4 22.5Z" fill="#6FB24A"/>
+  <path d="M28 9.5 16 16v13l12-6.5Z" fill="#4E8A31"/>
+</svg>

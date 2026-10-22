@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blockhaven · Minecraft server</title>
+  <meta name="description" content="Survival, events and a friendly community. Hop on and build with us.">
+  <meta name="theme-color" content="#0C1015">
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="preload" href="assets/fonts/PixelifySans.woff" as="font" type="font/woff" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <script src="config.js" defer></script>
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <div class="hero" id="hero">
+    <header class="topbar">
+      <a class="brand" href="#main">
+        <img class="logo" src="assets/logo.svg" alt="" width="28" height="28" data-logo>
+        <span data-name>Blockhaven</span>
+      </a>
+      <nav aria-label="Quick links">
+        <ul class="nav" id="nav"><!-- filled from config.js LINKS (nav: true) --></ul>
+      </nav>
+    </header>
+
+    <main id="main" class="hero-content">
+      <p class="status" id="status" hidden><span class="dot" aria-hidden="true"></span><span id="status-text"></span></p>
+
+      <h1 class="title" data-wordmark><span class="wm-a">Block</span><span class="wm-b">haven</span></h1>
+      <p class="tagline" data-tagline>Survival, events and a friendly community. Hop on and build with us.</p>
+
+      <button type="button" class="ip" id="copy">
+        <span class="ip-address" data-ip>play.example.com</span>
+        <span class="ip-hint" id="ip-hint">Click to copy IP</span>
+      </button>
+      <p class="ip-meta"><span data-version>Java 1.21+</span><span class="copied" id="copied" role="status" aria-live="polite"></span></p>
+
+      <h2 class="visually-hidden">Links</h2>
+      <ul class="tiles" id="tiles"><!-- filled from config.js LINKS --></ul>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p><span data-name>Blockhaven</span> · <span data-year>2026</span> · Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</p>
+    <p>Template by DampSnag · <a href="#" data-tip>Buy me a coffee</a></p>
+  </footer>
+</body>
+</html>
