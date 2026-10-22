@@ -1,10 +1,10 @@
-# Minecraft Server Portal Page
+# BlockHaven MC Portal Page
 
 A one-screen landing page for your Minecraft server: a big pixel-style server name over a background image, a one-click **Copy IP** button, an optional live player count, and portal tiles linking to your Discord, store, vote page and rules. Plain HTML and CSS plus one small script. No build step, no frameworks, no trackers, nothing loaded from other sites.
 
 ## Download
 
-**[Live demo](https://dampsnag.github.io/mc-server-portal/)** · **[Download the latest release](https://github.com/DampSnag/mc-server-portal/releases/latest)** (grab the `.zip` under Assets), unzip it, edit `config.js`, and upload the folder to any web host.
+**[Live demo](https://dampsnag.github.io/blockhaven-mc-portal/)** · **[Download the latest release](https://github.com/DampSnag/blockhaven-mc-portal/releases/latest)** (grab `blockhaven-mc-portal-vX.Y.Z.zip` under Assets), unzip it, edit `config.js`, and upload the folder to any web host.
 
 > Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
