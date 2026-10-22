@@ -4,7 +4,7 @@ A one-screen landing page for your Minecraft server: a big pixel-style server na
 
 ## Download
 
-**[Download the latest release](https://github.com/DampSnag/mc-server-portal/releases/latest)** (grab the `.zip` under Assets), unzip it, edit `config.js`, and upload the folder to any web host.
+**[Live demo](https://dampsnag.github.io/mc-server-portal/)** · **[Download the latest release](https://github.com/DampSnag/mc-server-portal/releases/latest)** (grab the `.zip` under Assets), unzip it, edit `config.js`, and upload the folder to any web host.
 
 > Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
