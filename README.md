@@ -95,7 +95,7 @@ Copy to clipboard works best over HTTPS, which all of the above provide.
 
 ## Credit
 
-Template by DampSnag. Keeping the footer credit is appreciated but not required. If this saved you time: [Buy me a coffee](#)
+Template by DampSnag. Keeping the footer credit is appreciated but not required. If this saved you time: [Buy me a coffee](https://dampsnag.com/coffee)
 
 ## Licence
 

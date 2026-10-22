@@ -42,6 +42,6 @@ window.SITE = {
   STATUS: false,
 
   // Footer
-  TIP_URL: "#",
+  TIP_URL: "https://dampsnag.com/coffee",
   TIP_LABEL: "Buy me a coffee"
 };
